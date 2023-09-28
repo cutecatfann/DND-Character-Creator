@@ -36,8 +36,8 @@ This application automates D&D character creation. It generates characters compl
 
 - **Dependency Inversion (D)**: Most of the data classes are abstract, emphasizing dependency on abstractions rather than concretions. This project doesn't emphasize much on inheritance, thus the full essence of this principle isn't deeply manifested.
 
-- **Contributing:**
+**Contributing:**
 I welcome contributions, suggestions, and feedback. Feel free to fork the repository, raise issues, or submit pull requests.
 
-- **License:**
+**License:**
 This project is open-source. Kindly refer to the accompanying license file for more details.
