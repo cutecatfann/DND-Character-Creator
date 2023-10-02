@@ -8,7 +8,7 @@ class Armor:
         self.weight = weight
 
 """ 
-ARMOR data from D&D Directly
+armor data from D&D Directly
 Each armor type is instantiated as a class of Armor with data for
 - name of armor
 - the armor class bonus
